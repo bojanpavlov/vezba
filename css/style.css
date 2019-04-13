@@ -1,0 +1,74 @@
+.navbar-collapse{
+    border: none;
+}
+
+.absolute-div {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.carousel-caption {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    padding-bottom: 330px;
+    color: white;
+}
+.item{
+    height: 100vh;
+}
+.col-md-4{
+    margin-top: 5%;
+}
+.body-1{
+    background-image: url("../Images/lights.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 20vh;
+}
+.text{
+    height: 20vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button-2{
+    border-color: red;
+    color: red;
+}
+.pc-pic{
+    width: 100%;
+    height: 100%;
+}
+.body-2{
+    background-image: url("../Images/media.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 20vh;
+}
+#media{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+.pointer {cursor: pointer;
+}
+.footer{
+    background-color: grey;
+}
+#subscribe{
+    border: none;
+    color: white;
+    margin-top: 11px;    
+}
+.copuright{
+    background-color: black;
+    /* height: 10vh;
+    margin: 0px; */
+}
+#end{
+    margin-top: 0px;
+    color: white;
+
+}
